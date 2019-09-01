@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "builders.rocket.ant"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "builders.rocket.ant",
+    "packageFolder": "builders/rocket/ant",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDllMDBhYTllMzlhYTAyMzBjNTRjMDg2YmUzNWVkMzlhMDQ3ZWU0M2QxMDdiNjE4Zjk2YjRjNTBkYjZhNmVmYzFjZWRkZjVmMjQ5MDZhZjhkYzk4MzQ4ZjcyZmY0OWQzYjI2MmVkNWMxNDg5NjNkNTU2ZDg1ZDIzODMzNzcxOWQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
